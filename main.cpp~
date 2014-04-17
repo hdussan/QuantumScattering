@@ -13,8 +13,6 @@
   The Woods-Saxon potential is good for a nuclues 
   like 40Ca, therefore in practice the code only 
   solves  n+40Ca scattering.
-    ... huge room for improvement
-
  */
 #include "DifferentialEq.hpp"
 using namespace std;
