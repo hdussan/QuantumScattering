@@ -1,2 +1,14 @@
- - Solution of the scattering problem in position space
+
+       solvRadialSchroedinger
+          
+     C++ programme
+     Very simple code using Object-Oriented programming
+------------------------------------------------------------
+------------------------------------------------------------
+
+ - Solution of the scattering problem in position space.
  - For spherical potential (Partial Waves Decomposition) 
+ - Currently using only a Woods-Saxon potential.
+ - In position space, the Schroedinger Equation is solved
+   using the numerov algorithm.
+
