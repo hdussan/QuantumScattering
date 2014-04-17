@@ -1,0 +1,2 @@
+ - Solution of the scattering problem in position space
+ - For spherical potential (Partial Waves Decomposition) 
